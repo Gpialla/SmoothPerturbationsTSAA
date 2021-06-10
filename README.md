@@ -1,16 +1,17 @@
 # Smooth Perturbations for Time Series Adversarial Attacks
 
-This is the companion repository for our paper titled "Smooth Perturbations for Time Series Adversarial Attacks". This paper is not published yet.
+This is the companion repository for our paper titled "Smooth Perturbations for Time Series Adversarial Attacks". 
+This paper is not published yet.
 
 ## Datasets used
 
-All our experiments were performed on the widely used time series classification benchmark [UCR/UEA archive](http://timeseriesclassification.com/index.php). We used the latest version (2018) which contains 128 datasets.
-The UCR archive is necesary to run the code.
+All our experiments were performed on the widely used time series classification benchmark [UCR/UEA archive](http://timeseriesclassification.com/index.php). 
+We used the latest version (2018) which contains 128 datasets. The UCR archive is necesary to run the code.
 
 ## Model used
 
-All experiments were performed using the time series classifier InceptionTime from the paper [InceptionTime: Finding AlexNet for Time Series Classification](https://arxiv.org/abs/1909.04939). The companion Github repository is located [here](https://github.com/hfawaz/InceptionTime).
-IncetionTime's weight are necesary to run the code.
+All experiments were performed using the time series classifier InceptionTime from the paper [InceptionTime: Finding AlexNet for Time Series Classification](https://arxiv.org/abs/1909.04939). 
+The companion Github repository is located [here](https://github.com/hfawaz/InceptionTime). InceptionTime's weight are necesary to run the code.
 
 ## Requirements
 
@@ -59,8 +60,8 @@ For each method, we recorded the execution time in seconds, the ASR, the number 
 
 The adversarial training was done for SGM over 13 datasets.
 
-[This file](results/adv_train_ASR.csv) presents the ASR of InceptionTime for each dataset, with and without adversarial training.
-[This file](results/adv_train_accuracy.csv) presents the accuracy of InceptionTime for each dataset, with and without adversarial training.
+* [This file](results/adv_train_ASR.csv) presents the ASR of InceptionTime for each dataset, with and without adversarial training.
+* [This file](results/adv_train_accuracy.csv) presents the accuracy of InceptionTime for each dataset, with and without adversarial training.
 
 
 ## Reference
