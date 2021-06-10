@@ -32,7 +32,7 @@ The code is divided as follows:
 ### Adaptions required
 
 You should consider changing the [root_dir](main.py#L44) variable.
-This variable specifies the folder where is the UEA/UCR archive and all the weights of InceptionTime. Both are necesary to run the code.
+This variable specifies the folder where the UEA/UCR archive and all the weights of InceptionTime are located. Both are necesary to run the code.
 
 ### Run the experiments
 
