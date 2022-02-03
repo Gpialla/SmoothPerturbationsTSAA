@@ -1,7 +1,7 @@
 # Smooth Perturbations for Time Series Adversarial Attacks
 
 This is the companion repository for our paper titled "Smooth Perturbations for Time Series Adversarial Attacks". 
-This paper is not published yet.
+This paper has been accepted on [PAKDD22](http://www.pakdd.net/) (May 16-19, 2022).
 
 ## Datasets used
 
