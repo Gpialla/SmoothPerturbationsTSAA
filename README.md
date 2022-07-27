@@ -246,6 +246,10 @@ The adversarial training was done for SGM over 13 datasets.
 
 ## Acknowledgments
 
-This work was funded by anonymous and co-funded by anonymous, anonymous, anonymous, anonymous and anonymous.
+This work was funded by ArtIC project ”Artificial Intelligence for Care” (grant
+ANR-20-THIA-0006-01) and co-funded by R ́egion Grand Est, Inria Nancy -
+Grand Est, IHU of Strasbourg, University of Strasbourg and University of Haute-
+Alsace. 
 
-The authors would like to thank the providers of the UCR archive as well as anonymous for providing access to the GPU cluster.
+The authors would like to thank the providers of the UCR archive as
+well as the M ́esocentre of Strasbourg for providing access to the GPU cluster.
