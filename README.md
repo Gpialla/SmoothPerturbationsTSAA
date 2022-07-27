@@ -6,12 +6,12 @@ This paper has been accepted on [PAKDD22](http://www.pakdd.net/) (May 16-19, 202
 ## Datasets used
 
 All our experiments were performed on the widely used time series classification benchmark [UCR/UEA archive](http://timeseriesclassification.com/index.php). 
-We used the latest version (2018) which contains 128 datasets. The UCR archive is necesary to run the code.
+We used the latest version (2018) which contains 128 datasets. The UCR archive is necessary to run the code.
 
 ## Model used
 
 All experiments were performed using the time series classifier InceptionTime from the paper [InceptionTime: Finding AlexNet for Time Series Classification](https://arxiv.org/abs/1909.04939). 
-The companion Github repository is located [here](https://github.com/hfawaz/InceptionTime). InceptionTime's weight are necesary to run the code.
+The companion Github repository is located [here](https://github.com/hfawaz/InceptionTime). InceptionTime's weight are necessary to run the code.
 
 ## Requirements
 
