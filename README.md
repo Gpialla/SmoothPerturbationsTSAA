@@ -233,7 +233,16 @@ The adversarial training was done for SGM over 13 datasets.
 
 ## Reference
 
-This work is not published yet.
+```
+@inproceedings{pialla2022smooth,
+  title={Smooth Perturbations for Time Series Adversarial Attacks},
+  author={Pialla, Gautier and Fawaz, Hassan Ismail and Devanne, Maxime and Weber, Jonathan and Idoumghar, Lhassane and Muller, Pierre-Alain and Bergmeir, Christoph and Schmidt, Daniel and Webb, Geoffrey and Forestier, Germain},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  pages={485--496},
+  year={2022},
+  organization={Springer}
+}
+```
 
 ## Acknowledgments
 
